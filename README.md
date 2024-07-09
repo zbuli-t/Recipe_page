@@ -11,8 +11,7 @@ screenshot - Frontend Mentor - Recipe page.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://zbuli-t.github.io/Recipe_page/)
 
 ## My process
 
